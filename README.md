@@ -1,2 +1,2 @@
 # 1-grupa-kristine-adgerebistere-terraform-project
-DevOps Terraform projekta repozitorijs
+Kristīnes Adgeres-Bisteres kursa DevOps pamati iesācējiem Terraform projekta repozitorijs
